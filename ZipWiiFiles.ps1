@@ -1,1 +1,0 @@
-Compress-Archive -Path ./Build/ "HTX Wii Build.zip"
