@@ -19,6 +19,7 @@ SAMUS
 YOSHI
 
 KIRBY
+40 - SSK Kirby by SJS
 
 FOX
 
@@ -27,6 +28,7 @@ PIKACHU
 LUIGI
 
 CAPTAIN FALCON
+07 - Snook Falcon by ???
 
 NESS
 
@@ -45,6 +47,7 @@ SHEIK
 ICE CLIMBERS
 
 MARTH
+34 - TVBen Marth by ???
 
 MR. GAME & WATCH
 
@@ -63,6 +66,7 @@ ZERO SUIT SAMUS
 OLIMAR
 
 LUCAS
+26 - Zaxis Lucas by ???
 
 DIDDY KONG
 
@@ -71,9 +75,11 @@ MEWTWO
 CHARIZARD
 
 SQUIRTLE
+25 - Phorcys Squirtle by ???
 
 IVYSAUR
 25 - BUH Ivy by Autumn
+40 - Onion Turtle Ivy by ???
 
 DEDEDE
 11 - Cuno D3 by Autumn
@@ -82,6 +88,7 @@ LUCARIO
 25 - Fearless Lucario by ???
 
 IKE
+34 - Trans Ike by Kurukato
 
 R.O.B.
 
@@ -99,7 +106,6 @@ SNAKE
 06 - Autumn Snake by Autumn
 
 SONIC
-08 - Espio Semi-Alt by Shy
 
 WARIO MAN
 
@@ -118,7 +124,7 @@ BATTLEFIELD
 Base - Daytime BF by ilikepizza107
 
 POKEMON STADIUM 2
-Base - WHW4 PS2 by ilikepizza107
+Base - HTX PS2 by ilikepizza107
 
 
 ################
